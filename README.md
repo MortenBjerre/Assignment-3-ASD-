@@ -5,4 +5,6 @@ Made by Morten Bjerre.
 
 The assisngment is a simplified version of checkers. 
 You are only permitted to move diagonally forward by one row unless you are able to jump the opponents piece.
-Multiple jumping in one direction is also possible but it is not possible to 'zig zag'-jump. 
+It is only possible in this version to jump on piece per turn. Multiple jumping is not implemented. 
+
+The UML class diagram should be readable when downloaded. Just zoom in. 
