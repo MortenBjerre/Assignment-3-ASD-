@@ -8,7 +8,6 @@ import game.Player;
 import game.Game;
 
 // Trying to get github to update
-
 public class GameTest {
 	
 	Player p1 = new Player(1);
