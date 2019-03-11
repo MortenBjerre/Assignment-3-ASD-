@@ -13,6 +13,7 @@ public class GameTest {
 	Player p2 = new Player(2);
 	Game g = new Game();
 	Board board = new Board();
+	
 	@Test
 	public void testLegalPick() {
 		assertTrue("Should be a legal pick for player 1", g.legalPick(board, 2, 1, p1));
