@@ -9,5 +9,5 @@ It is only possible in this version to jump on piece per turn. Multiple jumping 
 
 I have tested the Game class using JUnit test, since the Player class relies on the Game class.
 
-** The game should be run with the CheckersFull.java fill and not checkers. 
+** The game should be run with the CheckersFull.java file and not checkers.java file. 
 I had a bit of trouble managing my files so i kept it as a backup in case something was lost.**
