@@ -3,7 +3,6 @@ package testing;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
 import game.Board;
 import game.Player;
 import game.Game;
